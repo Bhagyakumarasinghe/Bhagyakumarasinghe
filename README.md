@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Bhagya Kumarasinghe</h1>
 <h3 align="center">A passionate Aspiring Software Engineer | AI & Web Development Enthusiast</h3>
 
+- 🔭 I’m currently working on [MindCare Agent System (Final Year Project)](GitHub: https://github.com/Bhagyakumarasinghe/mindcare-agent-system.git)
+
+- 🌱 I’m currently learning **AI/ML Applications, Advanced MERN Stack Development, Spring Boot, Cloud Technologies, and System Design.**
+
+- 👯 I’m looking to collaborate on [Full-Stack Web Applications and AI-based Software Projects (MERN Stack / Python)](GitHub: https://github.com/Bhagyakumarasinghe)
+
+- 🤝 I’m looking for help with **AI integration, intelligent agents, and scalable full-stack architectures for real-world applications**
+
+- 💬 Ask me about **React, MERN Stack, JavaScript, Python, Full-Stack Development, and Software Engineering**
+
+- 📫 How to reach me **bhagya.kumarasinghe.dev@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning ideas into real software solutions and learning new technologies.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhagya kumarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagya kumarasinghe" height="30" width="40" /></a>
